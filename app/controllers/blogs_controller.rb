@@ -16,9 +16,6 @@ class BlogsController < ApplicationController
   def show
 #    @blog = Blog.find(params[:id])
   end
-  
-  
-  
 
 #  def create
 #    Blog.create(blog_params)
